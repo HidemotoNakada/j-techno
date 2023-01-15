@@ -9,6 +9,7 @@ __pycache__/
 *$py.class
 
 data
+bears
 *.pth
 
 # C extensions
